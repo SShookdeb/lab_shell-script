@@ -1,0 +1,10 @@
+1.Write a shell program to calculate compound interest
+2. Write a shell program to swap 2 numbers without 3rd variables
+3. Write a Shell program to check the given year is Leap year or not
+4.Write a shell script program to find the Maximum from three numbers
+5. Write  a shell script to perform Arithmetic operation using CASE
+6.Write a shell script calculate the factorial value of a number using shell script 
+7.To write a shell program to generate fibonacci series. 
+8. Program to print all the prime numbers between 1 to 100
+9. Write a script for comparison of strings value of username and password variables will be taken from standard input with ‘root’ and ‘confidential’. If both values match then the output will be “valid user”, otherwise the output will be “invalid user”.
+#10.Write a shell program to draw a Pascal’s Triangle
