@@ -1,0 +1,6 @@
+1.write a shell script to read five number for an array ,find the largest value and smallest
+2.write a shell script for sort an array 
+3.write a shell script to find the position of of an element of an array
+4.write a shell script to find factorial value of a number using argument of a function
+5.write a shell script to swap two number by using call by value
+6.write a c programm to implement fcfs
